@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: black;
+}
+
+.home .header {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 4rem;
+    margin: 0;
+    padding: 10px;
+    text-shadow: 0 0 2px white, 0 0 2px white, 0 0 2px white, 0 0 2px white;
+    box-sizing: border-box;
+    background-image: url('../background.jpg');
+    background-size: cover;
+}
+
+.home .header h1 {
+    margin: 0;
+    max-width: 700px;
+}
+
+.home .mission {
+    background: yellow;
+    padding: 50px 100px;
+}
+
+.home .mission p {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 600px) {
+    .home .header {
+        font-family: 'Staatliches', cursive;
+        font-size: 3.5rem;
+        margin: 0;
+        padding: 10px;
+    }
+
+    .home .mission {
+        padding: 10px 20px;
+    }
+}

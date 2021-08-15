@@ -1,0 +1,28 @@
+.background {
+    display: flex;
+    flex-direction: column;
+    background: black;
+    color: white;
+    padding: 50px 100px;
+    max-width: 1200px;
+}
+
+@media (max-width: 600px) {
+    .background {
+        padding: 50px 50px;
+    }
+}
+
+.background #figure {
+    width: 100%;
+}
+
+.background #source {
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+}
+
+.background a {
+    color: white;
+}

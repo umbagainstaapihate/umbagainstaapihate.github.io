@@ -1,0 +1,38 @@
+.story {
+    width: 100%;
+    flex-direction: row;
+    box-sizing: border-box;
+    margin: 20px 0px;
+    color: white;
+    justify-content: flex-end;
+    display: flex;
+    padding: 0px 50px;
+}
+
+.story:nth-child(odd) {
+    justify-content: flex-start;
+}
+
+.story .wrapper {
+    max-width: 700px;
+    min-width: 300px;
+    text-align: justify;
+    padding: 20px;
+}
+
+.story .wrapper .bolded {
+    font-style: italic;
+    text-align: left;
+}
+
+.story .wrapper a {
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .story {
+        padding: 0;
+        margin: 30px 0px;
+    }
+}
+

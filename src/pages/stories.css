@@ -1,0 +1,17 @@
+.stories {
+    background-image: url('../background-dark.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.stories h1 {
+    text-align: center;
+    color: white;
+}
+
+.stories .content {
+    max-width: 1200px;
+    margin: auto;
+}
