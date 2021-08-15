@@ -6,6 +6,7 @@ import About from './pages/about';
 import { Switch, Route, Link } from 'react-router-dom';
 import Footer from './components/footer';
 import Stories from './pages/stories';
+import Resources from './pages/resources';
 
 function App() {
     return (
@@ -14,6 +15,9 @@ function App() {
             <Switch>
                 <Route path="/stories">
                     <Stories />
+                </Route>
+                <Route path="/resources">
+                    <Resources />
                 </Route>
                 <Route path="/about">
                     <About />
