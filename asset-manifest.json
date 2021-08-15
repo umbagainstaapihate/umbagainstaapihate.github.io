@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/umbagainstaapihate.github.io/static/css/main.5a904c45.chunk.css",
+    "main.js": "/umbagainstaapihate.github.io/static/js/main.b9b124e8.chunk.js",
+    "main.js.map": "/umbagainstaapihate.github.io/static/js/main.b9b124e8.chunk.js.map",
+    "runtime-main.js": "/umbagainstaapihate.github.io/static/js/runtime-main.1b6f5810.js",
+    "runtime-main.js.map": "/umbagainstaapihate.github.io/static/js/runtime-main.1b6f5810.js.map",
+    "static/js/2.0f7cb042.chunk.js": "/umbagainstaapihate.github.io/static/js/2.0f7cb042.chunk.js",
+    "static/js/2.0f7cb042.chunk.js.map": "/umbagainstaapihate.github.io/static/js/2.0f7cb042.chunk.js.map",
+    "index.html": "/umbagainstaapihate.github.io/index.html",
+    "static/css/main.5a904c45.chunk.css.map": "/umbagainstaapihate.github.io/static/css/main.5a904c45.chunk.css.map",
+    "static/js/2.0f7cb042.chunk.js.LICENSE.txt": "/umbagainstaapihate.github.io/static/js/2.0f7cb042.chunk.js.LICENSE.txt",
+    "static/media/stories.css": "/umbagainstaapihate.github.io/static/media/background-dark.d08f48ea.jpg",
+    "static/media/resources.css": "/umbagainstaapihate.github.io/static/media/background.8f23cddb.jpg",
+    "static/media/logo.6ce24c58.svg": "/umbagainstaapihate.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6f5810.js",
+    "static/js/2.0f7cb042.chunk.js",
+    "static/css/main.5a904c45.chunk.css",
+    "static/js/main.b9b124e8.chunk.js"
+  ]
+}
