@@ -11,7 +11,7 @@ const Hamburger = (props) => {
                 Stories
             </a>
             <a id="share" className="menu-item" href="https://docs.google.com/forms/d/e/1FAIpQLSdl9UJgFr3qmkYkxfvhC7RUeuQbkWQfS6XSsjaOZFk7Vzjzng/viewform">
-                Share Your Story
+                Report an Incident
             </a>
             <a id="resources" className="menu-item" href="/#/resources">
                 Resources
