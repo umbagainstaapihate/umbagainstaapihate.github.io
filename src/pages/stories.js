@@ -5,6 +5,7 @@ const Stories = () => {
     return (
         <div className="stories">
             <h1>Stories From Students</h1>
+            <h4>Stories collected by UMB's Gold Humanism Honor Society, Class of 2021</h4>
             <div className="content">
                 <Story bolded="spat on the windshield and left">
                     <p>

@@ -11,6 +11,13 @@
     color: white;
 }
 
+.stories h4 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+}
+
 .stories .content {
     max-width: 1200px;
     margin: auto;
